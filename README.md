@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxxine29
-- 👀 I’m interested in building websites 
+- 👀 I’m interested in building websites with Django
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything! I'm here to learn
 - 📫 How to reach me ...@maxinethecoder on Twitter and @Maxine#8709 on Discord
